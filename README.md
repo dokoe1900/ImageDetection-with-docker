@@ -42,7 +42,7 @@ docker ps -a
 6. $./test.sh
 
 ### Copy the learned folder to the host
-7. $docker cp "container ID":/root/work/darknet/dogResult ./
+7. $docker cp "container ID":/root/work/darknet/"result folder" ./
 
 # License
 none
