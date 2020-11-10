@@ -1,4 +1,4 @@
-# YOLO automation environment construction
+# yolov3 automation for Docker
 
 This project uses a Linux shell script to automate the process of cutting images learned in Yolov3 with Python (Open CV) and saving them in a new directory. In addition, environment settings can be automatically constructed based on Docker.
 
