@@ -22,6 +22,12 @@ Windows→https://hub.docker.com/editions/community/docker-ce-desktop-windows
 docker images  
 docker ps -a
 
+### exit the container
+exit
+
+### enter the container again
+docker exec -it "conttainer ID" bash
+
 # Usage
 ### clone Dockerfile
 1. $git clone https://github.com/dokoe1900/ImageDetections.git
