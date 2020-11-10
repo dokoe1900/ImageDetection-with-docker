@@ -22,7 +22,7 @@ Mac→https://hub.docker.com/editions/community/docker-ce-desktop-mac
 ### Windows  
 Windows→https://hub.docker.com/editions/community/docker-ce-desktop-windows  
 
-### Windows Terminal and Git Bash recommended for windows
+#### Windows Terminal and Git Bash recommended for windows
 Windows Terminal→https://docs.microsoft.com/en-us/windows/terminal/get-started  
 Git Bash→https://qiita.com/yokra9/items/bdd0882268b308cf22ca
 
