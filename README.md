@@ -47,7 +47,7 @@ docker exec -it "conttainer ID" bash
 3. $docker build .
 
 ### docker container run
-4. $docker run “image ID” bash
+4. $docker run -it “image ID” bash
 
 ### Copy the folder containing the photos to the container
 5. $docker cp ./“folder name” "container ID":/root/work/darknet
