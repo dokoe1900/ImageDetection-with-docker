@@ -38,7 +38,7 @@ docker exec -it "conttainer ID" bash
 
 # Usage
 ### clone Dockerfile
-1. $git clone https://github.com/dokoe1900/ImageDetections.git
+1. $git clone https://github.com/dokoe1900/ImageDetection-with-docker.git
 
 ### Move to ImageDetections directory  
 2. $cd ImageDetections
